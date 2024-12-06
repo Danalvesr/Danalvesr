@@ -1,7 +1,8 @@
 ## Olá eu sou o Daniel Rodrigues Alves, desenvolvedor e analista de sistemas!
 
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danalvesr)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/Danalvesr"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danalvesr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 </div>
 
 <div style="display: inline_block"><br>
